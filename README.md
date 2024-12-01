@@ -69,7 +69,7 @@ You can install the modules individually with pip install, or add them to a requ
 * Clone the repository using the following command:
 
     ```bash
-    !git clone https://github.com/CODEBRAKERBOYY/GlaucomaDetection.git
+    !git clone(https://github.com/harshgupta166/Glaucoma-_detetction)
     ```
 
 * Change into the cloned directory:
