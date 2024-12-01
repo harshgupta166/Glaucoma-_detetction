@@ -1,6 +1,6 @@
-# # Glaucoma Detection Using Deep Learning
+#Glaucoma Detection Using Deep Learning
 
-Overview
+##Overview
 This project focuses on the early detection of glaucoma, a progressive eye disease that can lead to permanent blindness if untreated. The system leverages machine learning techniques to analyze retinal fundus images and classify them as either glaucoma-positive or negative.
 
 Features
